@@ -91,7 +91,7 @@ git push orgin newbranchName
 --
 git merge newbran12 
 --
-git push orgin newbran12
+git push myorgin mybranch
 =====================================================CLOne
 new folder create
 --cmd
