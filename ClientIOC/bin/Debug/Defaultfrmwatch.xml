@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <frmwatch>
+    <InstrumentName_x0028_A_x0029_>OPTIDX</InstrumentName_x0028_A_x0029_>
+    <DescriptionB>NIFTY15OCT8000CE</DescriptionB>
+    <Symbol_x0028_C_x0029_>NIFTY</Symbol_x0028_C_x0029_>
+    <ExpiryDate_x0028_D_x0029_>29/10/2015 2:30:00 PM</ExpiryDate_x0028_D_x0029_>
+    <OptionType_x0028_E_x0029_>CE</OptionType_x0028_E_x0029_>
+    <StrikePrice_x0028_F_x0029_>8000</StrikePrice_x0028_F_x0029_>
+    <Bid_x0028_G_x0029_>139.1</Bid_x0028_G_x0029_>
+    <Ask_x0028_H_x0029_>139.65</Ask_x0028_H_x0029_>
+    <LTP_x0028_I_x0029_>139.3</LTP_x0028_I_x0029_>
+    <LTP_Vol_x0028_J_x0029_>21.3585</LTP_Vol_x0028_J_x0029_>
+    <Bid_Vol_x0028_K_x0029_>21.328</Bid_Vol_x0028_K_x0029_>
+    <Ask_Vol_x0028_L_x0029_>21.4043</Ask_Vol_x0028_L_x0029_>
+    <Delta_x0028_M_x0029_>0.4712</Delta_x0028_M_x0029_>
+    <Gamma_x0028_N_x0029_>0.0010</Gamma_x0028_N_x0029_>
+    <Vega_x0028_O_x0029_>7.2329</Vega_x0028_O_x0029_>
+    <Theta_x0028_P_x0029_>-4.0653</Theta_x0028_P_x0029_>
+    <Rho_x0028_Q_x0029_>1.8817</Rho_x0028_Q_x0029_>
+    <R />
+    <S />
+    <T />
+    <U />
+    <V />
+    <W />
+    <X />
+    <Y />
+    <Z />
+    <UniqueIdentifier_FUT>47965</UniqueIdentifier_FUT>
+    <LTP_FUT>7968</LTP_FUT>
+    <UniqueIdentifier>48888</UniqueIdentifier>
+    <BidQ>0</BidQ>
+    <AskQ>0</AskQ>
+    <LTQ>0</LTQ>
+    <Open>0</Open>
+    <High>0</High>
+    <Low>0</Low>
+    <Close>0</Close>
+    <Volume>0</Volume>
+    <OI>0.213584899902344</OI>
+    <ATP>0.168113708496094</ATP>
+    <TBQ>0</TBQ>
+    <TSQ>0</TSQ>
+    <TotalTrades>0</TotalTrades>
+    <TotalQtyTraded>0</TotalQtyTraded>
+    <TotalTradedValue>0</TotalTradedValue>
+    <HighestPriceEver>0</HighestPriceEver>
+    <LowestPriceever>0</LowestPriceever>
+    <Exchange>NFO</Exchange>
+    <Lotsize>25</Lotsize>
+  </frmwatch>
+</DocumentElement>
